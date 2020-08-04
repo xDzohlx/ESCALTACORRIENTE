@@ -1,0 +1,29 @@
+Qty;Value;Device;Package;Parts;Description;Precio;;Link
+2;1500u;C-EU050-035X075;C050-035X075;C9, C10;CAPACITOR, European symbol;2,14;4,28;https://www.digikey.com.mx/product-detail/es/rubycon/63ZLJ1200M12-5X40/1189-4107-ND/9083541
+3;;C-EUC0402;C0805;C6, C7, C8;CAPACITOR, European symbol;0,75;2,25;https://www.digikey.com.mx/product-detail/es/tdk-corporation/C2012JB1V156M125AC/445-11522-1-ND/3953188
+10;;DIODE-MINIMELF;MINIMELF;D2, D4, D5, D6, D7, D8, D9, D10, D11, D12;DIODE;0,26;2,6;https://www.digikey.com.mx/product-detail/es/diodes-incorporated/1N5819HW-7-F/1N5819HW-FDICT-ND/815283
+3;;LEDCHIPLED_0603;CHIPLED_0603;POWERON1, POWERON2, POWERON3;LED;0,28;0,84;https://www.digikey.com.mx/product-detail/es/osram-opto-semiconductors-inc/LS-Q976-NR-1/475-2512-1-ND/1802639
+5;;R-EU_M0805;M0805;R1, R2, R3, R4, R10;RESISTOR, European symbol;0,1;0,5;https://www.digikey.com.mx/product-detail/es/yageo/RC0805FR-071RL/311-1-00CRCT-ND/730390
+2;0.1;C-EUC0805;C0805;C4, C11;CAPACITOR, European symbol;0,1;0,2;https://www.digikey.com.mx/product-detail/es/kemet/C0805C104Z5VACTU/399-1177-1-ND/411452
+1;0.1u;C-EUC0402;C0402;C3;CAPACITOR, European symbol;0,1;0,1;
+1;0.1u;C-EUC0805;C0805;C5;CAPACITOR, European symbol;0,1;0,1;https://www.digikey.com.mx/product-detail/es/kemet/C0805C104Z5VACTU/399-1177-1-ND/411452
+2;1.2k;R-EU_M0805;M0805;R9, R11;RESISTOR, European symbol;0,1;0,2;https://www.digikey.com.mx/product-detail/es/te-connectivity-passive-product/CRGCQ0805F1K2/A129750CT-ND/8577582
+1;10;C-EUC0805;C0805;C14;CAPACITOR, European symbol;0,46;0,46;https://www.digikey.com.mx/product-detail/es/murata-electronics/GRM21BC8YA106ME11L/490-10505-1-ND/5026433
+4;100;R-EU_M0805;M0805;R5, R6, R7, R8;RESISTOR, European symbol;0,1;0,4;https://www.digikey.com.mx/product-detail/es/te-connectivity-passive-product/CRGCQ0805J100R/A130128CT-ND/8577960
+2;1u;C-EUC0805;C0805;BYPASSBOOT, BYPASSBOOT2;CAPACITOR, European symbol;0,29;0,58;https://www.digikey.com.mx/product-detail/es/murata-electronics/GRM219R7YA105KA12D/490-10494-1-ND/5026417
+2;22u;C-EUC0402;C0402;C12, C13;CAPACITOR, European symbol;0,7;1,4;https://www.digikey.com.mx/product-detail/es/samsung-electro-mechanics/CL10A226MO7JZNC/1276-7076-1-ND/7320718
+2;22u;C-EUC0805;C0805;C1, C2;CAPACITOR, European symbol;0,7;1,4;https://www.digikey.com.mx/product-detail/es/samsung-electro-mechanics/CL10A226MO7JZNC/1276-7076-1-ND/7320718
+2;440nf;C-EUC0805;C0805;BOOTB, BOOTB1;CAPACITOR, European symbol;0,22;0,44;https://www.digikey.com.mx/product-detail/es/yageo/CC0805ZRY5V9BB474/311-4365-1-ND/8025454
+1;AP63205WU-7SOIC_05WU-7_DIO-M;AP63205WU-7SOIC_05WU-7_DIO-M;SOIC_05WU-7_DIO-M;U2;Regulador conmutado;0,83;0,83;https://www.digikey.com.mx/product-detail/es/diodes-incorporated/AP63205WU-7/AP63205WU-7DICT-ND/9858428
+1;ATTINY828-AU;ATTINY828-AU;32A_ATM;U1;;1,08;1,08;https://www.digikey.com.mx/product-detail/es/microchip-technology/ATTINY828-AU/ATTINY828-AU-ND/3608500
+1;INDUCTOR4.7;INDUCTOR4.7;IND_NRS5030T100MMGJ_TAY;U$1;;0,56;0,56;https://www.digikey.com.mx/product-detail/es/taiyo-yuden/NRS5030T4R7MMGJV/587-3605-1-ND/4694114
+4;IPB180N06S4-H1;IPB180N06S4-H1;PG-TO263-7-3;LA, LA1, LA2, LA3;OptiMOSÂ®-T2 Power-Transistor;2,81;11,24;https://www.digikey.com.mx/product-detail/es/infineon-technologies/IPB017N06N3GATMA1/IPB017N06N3GATMA1CT-ND/2344854
+2;IRS2110SPBF;IRS2110SPBF;SOIC127P1030X265-16N;D1, D3;IRS2110SPBF;2,65;5,3;https://www.digikey.com.mx/products/es?keywords=IRS2110SPBF
+4;PHASE;PHASE;POWEROUT;FASEA, FASEA1, FASEA2, FASEA3;;0;0;
+4;TPB1,27;TPB1,27;B1,27;TP8, TP9, TP10, TP11;Test pad;0;0;
+7;TPTP16SQ;TPTP16SQ;TP16SQ;TP1, TP2, TP3, TP4, TP5, TP6, TP7;Test pad;0;0;
+;;;;;Total;;34,76;
+;;;;;Total pesos;;772,7148;
+;Precio dólar;22,23;;;iva;;123,634368;
+;;;;;Total final;;896,349168;
+;;;;;;;1792,698336;
